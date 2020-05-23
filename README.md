@@ -1,4 +1,4 @@
-# [🧑🏼‍💻 Hieu Nguyen](https://github.com/noud/laradock-hieu)'s [Laradock](https://laradock.io) [Docker](https://laradock.io)
+# [Laradock](https://laradock.io) [Docker](https://laradock.io)
 
 * [WordPerfect](https://wordperfect.com)
     * [HIEUTUBE](https://github.com/noud/wp-hieutube)
